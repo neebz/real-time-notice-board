@@ -1,0 +1,19 @@
+What the heck is it?
+Its a web app where anyone can post anything and it will get notified to all other clients.
+
+What I need ?
+1. NodeJs
+2. Nowjs
+3. Knockoutjs*
+4. Coffeekup
+5. Expressjs
+
+
+How to make it work?
+After installing the dependencies, just run node app.js.
+
+What? That's it?
+Yup. Just checking the amazing power of Nowjs.
+
+
+*Knockout's data-bind was conflicting with Coffeekup for some strange reason. So I changed the code and am using databind (without the hypen)
